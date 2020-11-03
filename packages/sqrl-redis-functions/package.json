@@ -1,6 +1,6 @@
 {
   "name": "sqrl-redis-functions",
-  "version": "0.6.6-beta.3",
+  "version": "0.6.6-beta.4",
   "description": "SQRL (A Safe, Stateful Rules Language for Event Streams) - functions for storing state in redis",
   "homepage": "https://twitter.github.io/sqrl",
   "license": "Apache-2.0",
@@ -43,7 +43,7 @@
     "jest": "^24.9.0",
     "jest-extended": "^0.11.2",
     "prettier": "^1.18.2",
-    "sqrl-test-utils": "^0.6.6-beta.3",
+    "sqrl-test-utils": "^0.6.6-beta.4",
     "ts-jest": "^24.0.2",
     "ts-node": "^8.3.0",
     "typescript": "^3.9.7"
@@ -58,8 +58,8 @@
     "ioredis": "^4.19.1",
     "moment": "^2.24.0",
     "murmurhash-native": "^3.4.1",
-    "sqrl": "^0.6.6-beta.3",
-    "sqrl-common": "^0.6.6-beta.3"
+    "sqrl": "^0.6.6-beta.4",
+    "sqrl-common": "^0.6.6-beta.4"
   },
   "gitHead": "d6f4789442ac2e1dea7b1f39b87c6db3395fd815"
 }
