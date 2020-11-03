@@ -1,6 +1,6 @@
 {
   "name": "wikipedia-diff-stream",
-  "version": "0.6.6-beta.4",
+  "version": "0.6.6-beta.5",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
